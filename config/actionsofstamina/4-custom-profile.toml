@@ -21,7 +21,7 @@
 
 [Sprinting]
 	#Using stamina for sprinting
-	enableForSprinting = true
+	enableForSprinting = false
 	#Defines how many feathers (value 1 is equals to half a feather) the players will loose for sprinting
 	#Range: 1 ~ 20
 	costsForSprinting = 1
@@ -39,7 +39,7 @@
 
 [Flying]
 	#Using stamina for flying (for Elytra and Angel Ring)
-	enableForFlying = true
+	enableForFlying = false
 	#Defines how many feathers (value 1 is equals to half a feather) the players will loose for flying (for Elytra and Angel Ring)
 	#Range: 1 ~ 20
 	costsForFlying = 1
@@ -75,7 +75,7 @@
 
 [Crawling]
 	#Using stamina for crawling (for Vanilla, Parcool, GoProne & Personality Mod)
-	enableForCrawling = true
+	enableForCrawling = false
 	#Defines how many feathers (value 1 is equals to half a feather) the players will loose for crawling (for Vanilla, Parcool, GoProne & Personality Mod)
 	#Range: 1 ~ 20
 	costsForCrawling = 1
@@ -93,7 +93,7 @@
 
 [Swimming]
 	#Using stamina for swimming
-	enableForSwimming = true
+	enableForSwimming = false
 	#Defines how many feathers (value 1 is equals to half a feather) the players will loose for swimming
 	#Range: 1 ~ 20
 	costsForSwimming = 1
@@ -111,7 +111,7 @@
 
 [Jumping]
 	#Using stamina for jumping
-	enableForJumping = true
+	enableForJumping = false
 	#Defines how many feathers (value 1 is equals to half a feather) the players will loose for jumping
 	#Range: 1 ~ 20
 	costsForJumping = 1
