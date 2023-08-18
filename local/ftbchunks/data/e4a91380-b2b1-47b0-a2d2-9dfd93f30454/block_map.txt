@@ -1,5 +1,3 @@
 #52B53D minecraft:air
-#4E5B9C tetra:basic_workbench
 #058353 minecraft:cobblestone
-#E2FA59 biomancy:decomposer
 #DC3458 minecraft:stone
