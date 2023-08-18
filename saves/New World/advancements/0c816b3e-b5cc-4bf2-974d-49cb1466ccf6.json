@@ -1,0 +1,251 @@
+{
+  "immersiveengineering:recipes/immersiveengineering/crafting/powerpack": {
+    "criteria": {
+      "has_leather": "2023-08-18 18:12:09 +0200"
+    },
+    "done": true
+  },
+  "simplyswords:soulstealer": {
+    "criteria": {
+      "requirement": "2023-08-18 18:13:16 +0200"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/bio_forging/leather_from_bio_forging": {
+    "criteria": {
+      "has_leather": "2023-08-18 18:12:09 +0200"
+    },
+    "done": true
+  },
+  "simplyswords:sunfire": {
+    "criteria": {
+      "requirement": "2023-08-18 18:08:17 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2023-08-18 18:12:09 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2023-08-18 17:53:15 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2023-08-18 18:02:54 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2023-08-18 18:12:09 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2023-08-18 18:13:04 +0200"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/pneumaticcraft/gun_ammo": {
+    "criteria": {
+      "has_minigun": "2023-08-18 18:13:44 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/pumpkin_soup": {
+    "criteria": {
+      "has_any_ingredient": "2023-08-18 18:02:54 +0200"
+    },
+    "done": true
+  },
+  "cataclysm:root": {
+    "criteria": {
+      "custom_test_name": "2023-08-18 17:53:15 +0200"
+    },
+    "done": true
+  },
+  "mekanism:root": {
+    "criteria": {
+      "automatic": "2023-08-18 17:53:02 +0200"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/porkchop_decomposing": {
+    "criteria": {
+      "has_porkchop": "2023-08-18 18:02:54 +0200"
+    },
+    "done": true
+  },
+  "simplyswords:harbinger": {
+    "criteria": {
+      "requirement": "2023-08-18 18:08:18 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2023-08-18 18:12:09 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2023-08-18 17:53:17 +0200",
+      "minecraft:flower_forest": "2023-08-18 18:03:57 +0200",
+      "minecraft:plains": "2023-08-18 17:57:41 +0200"
+    },
+    "done": false
+  },
+  "biomancy:biomancy/root": {
+    "criteria": {
+      "has_raw_meats": "2023-08-18 18:02:54 +0200"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2023-08-18 17:53:15 +0200"
+    },
+    "done": true
+  },
+  "simplyswords:grant_book_on_first_join": {
+    "criteria": {
+      "tick": "2023-08-18 17:53:15 +0200"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/forge_leather_decomposing": {
+    "criteria": {
+      "has_leather": "2023-08-18 18:12:09 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2023-08-18 18:13:04 +0200"
+    },
+    "done": true
+  },
+  "pneumaticcraft:minigun": {
+    "criteria": {
+      "0": "2023-08-18 18:13:44 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2023-08-18 18:13:04 +0200"
+    },
+    "done": true
+  },
+  "simplyswords:sword_on_a_stick": {
+    "criteria": {
+      "requirement": "2023-08-18 18:08:05 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2023-08-18 18:13:04 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2023-08-18 18:13:04 +0200"
+    },
+    "done": true
+  },
+  "simplyswords:runic_weapon": {
+    "criteria": {
+      "requirement": "2023-08-18 18:10:53 +0200"
+    },
+    "done": true
+  },
+  "meetyourfight:main/root": {
+    "criteria": {
+      "killed_something": "2023-08-18 18:02:50 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2023-08-18 18:02:54 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2023-08-18 18:02:54 +0200"
+    },
+    "done": true
+  },
+  "simplyswords:soulrender": {
+    "criteria": {
+      "requirement": "2023-08-18 18:12:25 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2023-08-18 18:02:50 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2023-08-18 18:12:09 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2023-08-18 18:13:04 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/noodle_soup": {
+    "criteria": {
+      "has_any_ingredient": "2023-08-18 18:02:54 +0200"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/conveyor_basic": {
+    "criteria": {
+      "has_leather": "2023-08-18 18:12:09 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2023-08-18 18:13:04 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2023-08-18 18:12:09 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2023-08-18 18:12:09 +0200"
+    },
+    "done": true
+  },
+  "simplyswords:slumbering_lichblade": {
+    "criteria": {
+      "requirement": "2023-08-18 18:07:34 +0200"
+    },
+    "done": true
+  },
+  "DataVersion": 3120
+}

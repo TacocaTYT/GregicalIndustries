@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "0c816b3eb5cc4bf2974d49cb1466ccf6"
+	name: "ieaturkneecaps"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

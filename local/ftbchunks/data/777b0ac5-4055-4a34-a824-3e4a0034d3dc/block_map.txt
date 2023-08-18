@@ -1,0 +1,4 @@
+#52B53D minecraft:air
+#4E5B9C tetra:basic_workbench
+#058353 minecraft:cobblestone
+#DC3458 minecraft:stone

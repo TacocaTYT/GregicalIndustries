@@ -1,0 +1,76 @@
+[22:51:25] [INIT] KubeJS 1902.6.1-build.364; MC 1902 forge
+[22:51:25] [INIT] Loaded plugins:
+[22:51:25] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[22:51:25] [INIT] - pie.ilikepiefoo.AdditionsPlugin
+[22:51:25] [INIT] - com.lowdragmc.lowdraglib.kjs.LDLibKubeJSPlugin
+[22:51:25] [INIT] - com.almostreliable.ponderjs.PonderJSPlugin
+[22:51:25] [INIT] - com.gregtechceu.gtceu.integration.kjs.GregTechKubeJSPlugin
+[22:51:25] [INIT] - com.bobvarioa.kubejsprojecte.kubejs.KubeJSProjectEPlugin
+[22:51:25] [INIT] - thelm.jaopca.compat.kubejs.JAOPCAKubeJSPlugin
+[22:51:25] [INIT] - com.bobvarioa.kjsindustrialforegoing.KJSIndustrialForegoingPlugin
+[22:51:25] [INIT] - com.prunoideae.KubeJSBotaniaPlugin
+[22:51:25] [INIT] - dev.latvian.mods.kubejs.create.KubeJSCreatePlugin
+[22:51:25] [INIT] - dev.latvian.mods.kubejs.immersiveengineering.ImmersiveEngineeringKubeJSPlugin
+[22:51:26] [INFO] Loaded script server_scripts:recipes.js in 0.003 s
+[22:51:26] [INFO] Loaded 1/1 KubeJS server scripts in 0.014 s
+[22:51:26] [INFO] Scripts loaded
+[22:51:26] [INFO] Initializing recipe event...
+[22:51:31] [INFO] Processing recipes...
+[22:51:31] [WARN] Failed to parse recipe 'railways:sequenced_assembly/track_blue_skies_starlit[create:sequenced_assembly]'! Falling back to vanilla: Ingredient 'ingredient' can't be empty!
+[22:51:31] [WARN] Failed to parse recipe 'railways:sequenced_assembly/track_byg_jacaranda[create:sequenced_assembly]'! Falling back to vanilla: Ingredient 'ingredient' can't be empty!
+[22:51:31] [WARN] Failed to parse recipe 'railways:sequenced_assembly/track_byg_maple[create:sequenced_assembly]'! Falling back to vanilla: Ingredient 'ingredient' can't be empty!
+[22:51:31] [WARN] Failed to parse recipe 'railways:sequenced_assembly/track_byg_redwood[create:sequenced_assembly]'! Falling back to vanilla: Ingredient 'ingredient' can't be empty!
+[22:51:31] [WARN] Failed to parse recipe 'railways:sequenced_assembly/track_twilightforest_darkwood[create:sequenced_assembly]'! Falling back to vanilla: Ingredient 'ingredient' can't be empty!
+[22:51:31] [WARN] Failed to parse recipe 'railways:sequenced_assembly/track_byg_aspen[create:sequenced_assembly]'! Falling back to vanilla: Ingredient 'ingredient' can't be empty!
+[22:51:31] [WARN] Failed to parse recipe 'railways:sequenced_assembly/track_twilightforest_sortingwood[create:sequenced_assembly]'! Falling back to vanilla: Ingredient 'ingredient' can't be empty!
+[22:51:31] [WARN] Failed to parse recipe 'railways:sequenced_assembly/track_twilightforest_timewood[create:sequenced_assembly]'! Falling back to vanilla: Ingredient 'ingredient' can't be empty!
+[22:51:31] [WARN] Failed to parse recipe 'railways:sequenced_assembly/track_byg_rainbow_eucalyptus[create:sequenced_assembly]'! Falling back to vanilla: Ingredient 'ingredient' can't be empty!
+[22:51:31] [WARN] Failed to parse recipe 'railways:sequenced_assembly/track_twilightforest_transwood[create:sequenced_assembly]'! Falling back to vanilla: Ingredient 'ingredient' can't be empty!
+[22:51:31] [WARN] Failed to parse recipe 'railways:sequenced_assembly/track_byg_blue_enchanted[create:sequenced_assembly]'! Falling back to vanilla: Ingredient 'ingredient' can't be empty!
+[22:51:32] [WARN] Failed to parse recipe 'railways:sequenced_assembly/track_byg_imparius[create:sequenced_assembly]'! Falling back to vanilla: Ingredient 'ingredient' can't be empty!
+[22:51:32] [WARN] Failed to parse recipe 'railways:sequenced_assembly/track_byg_skyris[create:sequenced_assembly]'! Falling back to vanilla: Ingredient 'ingredient' can't be empty!
+[22:51:32] [WARN] Failed to parse recipe 'railways:sequenced_assembly/track_byg_bulbis[create:sequenced_assembly]'! Falling back to vanilla: Ingredient 'ingredient' can't be empty!
+[22:51:32] [WARN] Failed to parse recipe 'railways:sequenced_assembly/track_byg_willow[create:sequenced_assembly]'! Falling back to vanilla: Ingredient 'ingredient' can't be empty!
+[22:51:32] [WARN] Failed to parse recipe 'railways:sequenced_assembly/track_twilightforest_minewood[create:sequenced_assembly]'! Falling back to vanilla: Ingredient 'ingredient' can't be empty!
+[22:51:32] [WARN] Failed to parse recipe 'railways:sequenced_assembly/track_blue_skies_dusk[create:sequenced_assembly]'! Falling back to vanilla: Ingredient 'ingredient' can't be empty!
+[22:51:32] [WARN] Failed to parse recipe 'railways:sequenced_assembly/track_byg_witch_hazel[create:sequenced_assembly]'! Falling back to vanilla: Ingredient 'ingredient' can't be empty!
+[22:51:32] [WARN] Failed to parse recipe 'railways:sequenced_assembly/track_byg_sythian[create:sequenced_assembly]'! Falling back to vanilla: Ingredient 'ingredient' can't be empty!
+[22:51:32] [WARN] Failed to parse recipe 'railways:sequenced_assembly/track_byg_embur[create:sequenced_assembly]'! Falling back to vanilla: Ingredient 'ingredient' can't be empty!
+[22:51:32] [WARN] Failed to parse recipe 'railways:sequenced_assembly/track_byg_zelkova[create:sequenced_assembly]'! Falling back to vanilla: Ingredient 'ingredient' can't be empty!
+[22:51:32] [WARN] Failed to parse recipe 'railways:sequenced_assembly/track_byg_white_mangrove[create:sequenced_assembly]'! Falling back to vanilla: Ingredient 'ingredient' can't be empty!
+[22:51:32] [WARN] Failed to parse recipe 'railways:sequenced_assembly/track_byg_pine[create:sequenced_assembly]'! Falling back to vanilla: Ingredient 'ingredient' can't be empty!
+[22:51:32] [WARN] Failed to parse recipe 'railways:sequenced_assembly/track_byg_cherry[create:sequenced_assembly]'! Falling back to vanilla: Ingredient 'ingredient' can't be empty!
+[22:51:32] [WARN] Failed to parse recipe 'railways:sequenced_assembly/track_blue_skies_maple[create:sequenced_assembly]'! Falling back to vanilla: Ingredient 'ingredient' can't be empty!
+[22:51:32] [WARN] Failed to parse recipe 'railways:sequenced_assembly/track_byg_palm[create:sequenced_assembly]'! Falling back to vanilla: Ingredient 'ingredient' can't be empty!
+[22:51:32] [WARN] Failed to parse recipe 'railways:sequenced_assembly/track_blue_skies_cherry[create:sequenced_assembly]'! Falling back to vanilla: Ingredient 'ingredient' can't be empty!
+[22:51:32] [WARN] Failed to parse recipe 'railways:sequenced_assembly/track_hexcasting_edified[create:sequenced_assembly]'! Falling back to vanilla: Ingredient 'ingredient' can't be empty!
+[22:51:32] [WARN] Failed to parse recipe 'railways:sequenced_assembly/track_byg_mahogany[create:sequenced_assembly]'! Falling back to vanilla: Ingredient 'ingredient' can't be empty!
+[22:51:32] [WARN] Failed to parse recipe 'railways:sequenced_assembly/track_blue_skies_frostbright[create:sequenced_assembly]'! Falling back to vanilla: Ingredient 'ingredient' can't be empty!
+[22:51:32] [WARN] Failed to parse recipe 'railways:sequenced_assembly/track_byg_ebony[create:sequenced_assembly]'! Falling back to vanilla: Ingredient 'ingredient' can't be empty!
+[22:51:32] [WARN] Failed to parse recipe 'railways:sequenced_assembly/track_byg_cypress[create:sequenced_assembly]'! Falling back to vanilla: Ingredient 'ingredient' can't be empty!
+[22:51:32] [WARN] Failed to parse recipe 'railways:sequenced_assembly/track_byg_lament[create:sequenced_assembly]'! Falling back to vanilla: Ingredient 'ingredient' can't be empty!
+[22:51:32] [WARN] Failed to parse recipe 'railways:sequenced_assembly/track_twilightforest_twilight_oak[create:sequenced_assembly]'! Falling back to vanilla: Ingredient 'ingredient' can't be empty!
+[22:51:32] [WARN] Failed to parse recipe 'railways:sequenced_assembly/track_byg_ether[create:sequenced_assembly]'! Falling back to vanilla: Ingredient 'ingredient' can't be empty!
+[22:51:32] [WARN] Failed to parse recipe 'railways:sequenced_assembly/track_byg_baobab[create:sequenced_assembly]'! Falling back to vanilla: Ingredient 'ingredient' can't be empty!
+[22:51:32] [WARN] Failed to parse recipe 'railways:sequenced_assembly/track_blue_skies_lunar[create:sequenced_assembly]'! Falling back to vanilla: Ingredient 'ingredient' can't be empty!
+[22:51:32] [WARN] Failed to parse recipe 'railways:sequenced_assembly/track_byg_holly[create:sequenced_assembly]'! Falling back to vanilla: Ingredient 'ingredient' can't be empty!
+[22:51:32] [WARN] Failed to parse recipe 'railways:sequenced_assembly/track_byg_cika[create:sequenced_assembly]'! Falling back to vanilla: Ingredient 'ingredient' can't be empty!
+[22:51:32] [WARN] Failed to parse recipe 'railways:sequenced_assembly/track_byg_fir[create:sequenced_assembly]'! Falling back to vanilla: Ingredient 'ingredient' can't be empty!
+[22:51:32] [WARN] Failed to parse recipe 'railways:sequenced_assembly/track_twilightforest_canopy[create:sequenced_assembly]'! Falling back to vanilla: Ingredient 'ingredient' can't be empty!
+[22:51:32] [WARN] Failed to parse recipe 'railways:sequenced_assembly/track_blue_skies_bluebright[create:sequenced_assembly]'! Falling back to vanilla: Ingredient 'ingredient' can't be empty!
+[22:51:32] [WARN] Failed to parse recipe 'railways:sequenced_assembly/track_byg_green_enchanted[create:sequenced_assembly]'! Falling back to vanilla: Ingredient 'ingredient' can't be empty!
+[22:51:32] [WARN] Failed to parse recipe 'railways:sequenced_assembly/track_twilightforest_mangrove[create:sequenced_assembly]'! Falling back to vanilla: Ingredient 'ingredient' can't be empty!
+[22:51:32] [WARN] Failed to parse recipe 'railways:sequenced_assembly/track_byg_nightshade[create:sequenced_assembly]'! Falling back to vanilla: Ingredient 'ingredient' can't be empty!
+[22:51:32] [INFO] Found 39161 recipes in 392.9 ms
+[22:51:32] [INFO] Posted recipe events in 213.2 ms
+[22:51:32] [WARN] Error parsing recipe create:cutting/compat/forbidden_arcanus/mysterywood_log[create:cutting]: {"type":"create:cutting","conditions":[{"type":"forge:mod_loaded","modid":"forbidden_arcanus"}],"ingredients":[{"item":"forbidden_arcanus:mysterywood_log"}],"processingTime":50,"results":[{"item":"forbidden_arcanus:stripped_mysterywood_log"}]}: com.google.gson.JsonSyntaxException: Unknown item 'forbidden_arcanus:mysterywood_log'
+[22:51:32] [WARN] Error parsing recipe malum:create/crushing/crush_rare_earths_block[create:crushing]: {"conditions":[{"type":"forge:mod_loaded","modid":"create"}],"type":"create:crushing","ingredients":[{"item":"malum:block_of_aurum"}],"results":[{"item":"malum:cthonic_gold"},{"item":"malum:cthonic_gold","chance":0.75},{"item":"create:experience_nugget","chance":0.75},{"item":"minecraft:cobbled_deepslate","chance":0.125}],"processingTime":600}: com.google.gson.JsonSyntaxException: Unknown item 'malum:block_of_aurum'
+[22:51:32] [WARN] Error parsing recipe create:cutting/compat/forbidden_arcanus/stripped_mysterywood[create:cutting]: {"type":"create:cutting","conditions":[{"type":"forge:mod_loaded","modid":"forbidden_arcanus"}],"ingredients":[{"item":"forbidden_arcanus:stripped_mysterywood"}],"processingTime":50,"results":[{"count":6,"item":"forbidden_arcanus:mysterywood_planks"}]}: com.google.gson.JsonSyntaxException: Unknown item 'forbidden_arcanus:stripped_mysterywood'
+[22:51:32] [WARN] Error parsing recipe create:cutting/compat/forbidden_arcanus/cherrywood_log[create:cutting]: {"type":"create:cutting","conditions":[{"type":"forge:mod_loaded","modid":"forbidden_arcanus"}],"ingredients":[{"item":"forbidden_arcanus:cherrywood_log"}],"processingTime":50,"results":[{"item":"forbidden_arcanus:stripped_cherrywood_log"}]}: com.google.gson.JsonSyntaxException: Unknown item 'forbidden_arcanus:cherrywood_log'
+[22:51:32] [WARN] Error parsing recipe create:cutting/compat/forbidden_arcanus/cherrywood[create:cutting]: {"type":"create:cutting","conditions":[{"type":"forge:mod_loaded","modid":"forbidden_arcanus"}],"ingredients":[{"item":"forbidden_arcanus:cherrywood"}],"processingTime":50,"results":[{"item":"forbidden_arcanus:stripped_cherrywood"}]}: com.google.gson.JsonSyntaxException: Unknown item 'forbidden_arcanus:cherrywood'
+[22:51:32] [WARN] Error parsing recipe create:cutting/compat/forbidden_arcanus/stripped_mysterywood_log[create:cutting]: {"type":"create:cutting","conditions":[{"type":"forge:mod_loaded","modid":"forbidden_arcanus"}],"ingredients":[{"item":"forbidden_arcanus:stripped_mysterywood_log"}],"processingTime":50,"results":[{"count":6,"item":"forbidden_arcanus:mysterywood_planks"}]}: com.google.gson.JsonSyntaxException: Unknown item 'forbidden_arcanus:stripped_mysterywood_log'
+[22:51:32] [WARN] Error parsing recipe create:cutting/compat/forbidden_arcanus/mysterywood[create:cutting]: {"type":"create:cutting","conditions":[{"type":"forge:mod_loaded","modid":"forbidden_arcanus"}],"ingredients":[{"item":"forbidden_arcanus:mysterywood"}],"processingTime":50,"results":[{"item":"forbidden_arcanus:stripped_mysterywood"}]}: com.google.gson.JsonSyntaxException: Unknown item 'forbidden_arcanus:mysterywood'
+[22:51:32] [WARN] Error parsing recipe create:cutting/compat/forbidden_arcanus/stripped_cherrywood_log[create:cutting]: {"type":"create:cutting","conditions":[{"type":"forge:mod_loaded","modid":"forbidden_arcanus"}],"ingredients":[{"item":"forbidden_arcanus:stripped_cherrywood_log"}],"processingTime":50,"results":[{"count":6,"item":"forbidden_arcanus:cherrywood_planks"}]}: com.google.gson.JsonSyntaxException: Unknown item 'forbidden_arcanus:stripped_cherrywood_log'
+[22:51:32] [WARN] Error parsing recipe create:cutting/compat/forbidden_arcanus/stripped_cherrywood[create:cutting]: {"type":"create:cutting","conditions":[{"type":"forge:mod_loaded","modid":"forbidden_arcanus"}],"ingredients":[{"item":"forbidden_arcanus:stripped_cherrywood"}],"processingTime":50,"results":[{"count":6,"item":"forbidden_arcanus:cherrywood_planks"}]}: com.google.gson.JsonSyntaxException: Unknown item 'forbidden_arcanus:stripped_cherrywood'
+[22:51:32] [WARN] Error parsing recipe biomancy:kjs_6fk0uo41w17yx246ovvefmder[biomancy:decomposing]: {"type":"biomancy:decomposing","ingredients":[{"item":"minecraft:gravel","count":3}],"result":[{"item":"kubejs:pebble","count":3}]}: com.google.gson.JsonSyntaxException: Missing input, expected to find a JsonObject
+[22:51:32] [INFO] Added 7 recipes, removed 3 recipes, modified 7 recipes, with 10 failed recipes in 87.27 ms

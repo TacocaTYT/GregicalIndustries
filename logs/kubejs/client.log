@@ -1,0 +1,14 @@
+[22:50:02] [INIT] KubeJS 1902.6.1-build.364; MC 1902 forge
+[22:50:02] [INIT] Loaded plugins:
+[22:50:02] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[22:50:02] [INIT] - pie.ilikepiefoo.AdditionsPlugin
+[22:50:02] [INIT] - com.lowdragmc.lowdraglib.kjs.LDLibKubeJSPlugin
+[22:50:02] [INIT] - com.almostreliable.ponderjs.PonderJSPlugin
+[22:50:02] [INIT] - com.gregtechceu.gtceu.integration.kjs.GregTechKubeJSPlugin
+[22:50:02] [INIT] - com.bobvarioa.kubejsprojecte.kubejs.KubeJSProjectEPlugin
+[22:50:02] [INIT] - thelm.jaopca.compat.kubejs.JAOPCAKubeJSPlugin
+[22:50:02] [INIT] - com.bobvarioa.kjsindustrialforegoing.KJSIndustrialForegoingPlugin
+[22:50:02] [INIT] - com.prunoideae.KubeJSBotaniaPlugin
+[22:50:02] [INIT] - dev.latvian.mods.kubejs.create.KubeJSCreatePlugin
+[22:50:02] [INIT] - dev.latvian.mods.kubejs.immersiveengineering.ImmersiveEngineeringKubeJSPlugin
+[22:50:02] [INFO] Loaded 0/0 KubeJS client scripts in 0.04 s

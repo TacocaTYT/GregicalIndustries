@@ -1,0 +1,878 @@
+{
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2023-08-18 18:51:53 +0200"
+    },
+    "done": true
+  },
+  "cataclysm:find_sunken_city": {
+    "criteria": {
+      "factory": "2023-08-18 18:44:46 +0200"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/bio_forging/nautilus_shell_from_bio_forging": {
+    "criteria": {
+      "has_nautilus_shell": "2023-08-18 18:49:05 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_axe": {
+    "criteria": {
+      "has_stick": "2023-08-18 18:38:58 +0200"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/evil_ingot": {
+    "criteria": {
+      "is_cursed_one": "2023-08-18 18:37:39 +0200"
+    },
+    "done": false
+  },
+  "enigmaticlegacy:book/brewing/twisted_potion": {
+    "criteria": {
+      "is_cursed_one": "2023-08-18 18:37:39 +0200"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/farmersdelight/organic_compost_from_rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2023-08-18 18:52:12 +0200"
+    },
+    "done": true
+  },
+  "irons_spellbooks:make_inscription_table": {
+    "criteria": {
+      "inscription_table": "2023-08-18 19:00:24 +0200"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/umbran_boat": {
+    "criteria": {
+      "in_water": "2023-08-18 18:44:46 +0200"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/willow_boat": {
+    "criteria": {
+      "in_water": "2023-08-18 18:44:46 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2023-08-18 18:51:53 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/birch/birch_planks_from_birch_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2023-08-18 18:39:01 +0200"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/palm_boat": {
+    "criteria": {
+      "in_water": "2023-08-18 18:44:46 +0200"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/nautilus_shell_decomposing": {
+    "criteria": {
+      "has_nautilus_shell": "2023-08-18 18:49:05 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2023-08-18 19:06:13 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_stick": "2023-08-18 18:38:58 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2023-08-18 18:51:53 +0200"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/the_infinitum": {
+    "criteria": {
+      "has_parent_recipe": "2023-08-18 18:42:00 +0200",
+      "is_cursed_one": "2023-08-18 18:37:39 +0200"
+    },
+    "done": false
+  },
+  "biomesoplenty:recipes/transportation/redwood_boat": {
+    "criteria": {
+      "in_water": "2023-08-18 18:44:46 +0200"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/the_acknowledgment": {
+    "criteria": {
+      "has_iron_ingot": "2023-08-18 18:37:32 +0200"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/twisted_heart": {
+    "criteria": {
+      "is_cursed_one": "2023-08-18 18:37:39 +0200"
+    },
+    "done": false
+  },
+  "biomesoplenty:recipes/transportation/mahogany_boat": {
+    "criteria": {
+      "in_water": "2023-08-18 18:44:46 +0200"
+    },
+    "done": true
+  },
+  "simplyswords:grant_book_on_first_join": {
+    "criteria": {
+      "tick": "2023-08-18 18:37:32 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2023-08-18 18:38:58 +0200"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/tools/the_twist": {
+    "criteria": {
+      "has_the_recipe": "2023-08-18 18:42:00 +0200"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_netherite": {
+    "criteria": {
+      "inv_changed-netherite": "2023-08-18 18:58:30 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2023-08-18 19:01:09 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2023-08-18 18:44:46 +0200"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/rotten_flesh_decomposing": {
+    "criteria": {
+      "has_rotten_flesh": "2023-08-18 18:52:12 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_shovel": {
+    "criteria": {
+      "has_stick": "2023-08-18 18:38:58 +0200"
+    },
+    "done": true
+  },
+  "apotheosis:give_book": {
+    "criteria": {
+      "tick": "2023-08-18 18:37:32 +0200"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/decorations/crafting/torch": {
+    "criteria": {
+      "has_stick": "2023-08-18 18:38:58 +0200"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/bio_forging/string_from_bio_forging": {
+    "criteria": {
+      "has_string": "2023-08-18 18:51:53 +0200"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_netherite": {
+    "criteria": {
+      "requirement": "2023-08-18 18:59:56 +0200"
+    },
+    "done": true
+  },
+  "cgm:recipes/cgm/advanced_bullet": {
+    "criteria": {
+      "has_gunpowder": "2023-08-18 18:51:19 +0200"
+    },
+    "done": true
+  },
+  "simplyswords:runic_weapon": {
+    "criteria": {
+      "requirement": "2023-08-18 19:05:10 +0200"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/cursed_stone": {
+    "criteria": {
+      "is_cursed_one": "2023-08-18 18:37:39 +0200"
+    },
+    "done": false
+  },
+  "biomesoplenty:recipes/transportation/dead_boat": {
+    "criteria": {
+      "in_water": "2023-08-18 18:44:46 +0200"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/infernal_shield": {
+    "criteria": {
+      "is_cursed_one": "2023-08-18 18:37:39 +0200"
+    },
+    "done": false
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2023-08-18 18:44:46 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2023-08-18 18:38:58 +0200"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/bio_forging/leather_from_bio_forging": {
+    "criteria": {
+      "has_leather": "2023-08-18 19:06:13 +0200"
+    },
+    "done": true
+  },
+  "apotheosis:affix/root": {
+    "criteria": {
+      "sword": "2023-08-18 18:48:06 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2023-08-18 18:51:19 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2023-08-18 18:38:57 +0200"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:main/etherium_tool": {
+    "criteria": {
+      "etherium_sword": "2023-08-18 18:42:18 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_shell": "2023-08-18 18:49:05 +0200"
+    },
+    "done": true
+  },
+  "cataclysm:root": {
+    "criteria": {
+      "custom_test_name": "2023-08-18 18:37:32 +0200"
+    },
+    "done": true
+  },
+  "irons_spellbooks:grant_patchouli": {
+    "criteria": {
+      "tick": "2023-08-18 18:58:47 +0200"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/digesting/nutrient_paste_from_digesting_seeds": {
+    "criteria": {
+      "has_seeds": "2023-08-18 18:52:12 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2023-08-18 18:38:58 +0200"
+    },
+    "done": true
+  },
+  "cgm:recipes/cgm/basic_bullet": {
+    "criteria": {
+      "has_gunpowder": "2023-08-18 18:51:19 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2023-08-18 18:51:53 +0200"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/soul_loss": {
+    "criteria": {
+      "is_cursed_one": "2023-08-18 18:37:39 +0200"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/relics/enigmatic_amulet": {
+    "criteria": {
+      "has_items": "2023-08-18 18:37:32 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2023-08-18 18:39:01 +0200"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "snowy_fir_clearing": "2023-08-18 18:50:06 +0200"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/magic_boat": {
+    "criteria": {
+      "in_water": "2023-08-18 18:44:46 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/oak/oak_planks_from_oak_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2023-08-18 18:38:57 +0200"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/forge_seeds_decomposing": {
+    "criteria": {
+      "has_seeds": "2023-08-18 18:52:12 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2023-08-18 18:38:57 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_stick": "2023-08-18 18:38:58 +0200"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/root": {
+    "criteria": {
+      "inscription_table": "2023-08-18 19:00:24 +0200"
+    },
+    "done": true
+  },
+  "cgm:recipes/cgm/shell": {
+    "criteria": {
+      "has_gunpowder": "2023-08-18 18:51:19 +0200"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/tools/ender_slayer": {
+    "criteria": {
+      "has_the_recipe": "2023-08-18 18:42:23 +0200"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2023-08-18 18:44:46 +0200"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/twisted_mirror": {
+    "criteria": {
+      "is_cursed_one": "2023-08-18 18:37:39 +0200"
+    },
+    "done": false
+  },
+  "biomesoplenty:recipes/transportation/fir_boat": {
+    "criteria": {
+      "in_water": "2023-08-18 18:44:46 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2023-08-18 19:06:13 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2023-08-18 19:06:13 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2023-08-18 18:51:53 +0200"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2023-08-18 18:37:32 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2023-08-18 18:51:19 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2023-08-18 19:06:13 +0200"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/digesting/nutrient_paste_from_digesting_saplings": {
+    "criteria": {
+      "has_saplings": "2023-08-18 18:38:57 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:creeper": "2023-08-18 18:51:18 +0200"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/desolation_ring": {
+    "criteria": {
+      "is_cursed_one": "2023-08-18 18:37:39 +0200"
+    },
+    "done": false
+  },
+  "cgm:recipes/cgm/grenade": {
+    "criteria": {
+      "has_gunpowder": "2023-08-18 18:51:19 +0200"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/relics/cursed_ring": {
+    "criteria": {
+      "has_items": "2023-08-18 18:37:32 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/flint_knife": {
+    "criteria": {
+      "has_stick": "2023-08-18 18:38:58 +0200"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_glowstone": {
+    "criteria": {
+      "inv_changed-glowstone": "2023-08-18 18:58:30 +0200"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "snowy_coniferous_forest": "2023-08-18 18:52:45 +0200",
+      "snowy_fir_clearing": "2023-08-18 18:50:06 +0200"
+    },
+    "done": false
+  },
+  "biomesoplenty:recipes/transportation/hellbark_boat": {
+    "criteria": {
+      "in_water": "2023-08-18 18:44:46 +0200"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/accessories/ender_ring": {
+    "criteria": {
+      "is_cursed_one": "2023-08-18 18:37:39 +0200"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/soul_compass": {
+    "criteria": {
+      "is_cursed_one": "2023-08-18 18:37:39 +0200"
+    },
+    "done": false
+  },
+  "cgm:recipes/cgm/missile": {
+    "criteria": {
+      "has_gunpowder": "2023-08-18 18:51:19 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:taiga": "2023-08-18 18:37:33 +0200",
+      "minecraft:snowy_plains": "2023-08-18 18:49:30 +0200",
+      "minecraft:stony_shore": "2023-08-18 18:52:58 +0200",
+      "minecraft:cold_ocean": "2023-08-18 18:44:24 +0200",
+      "minecraft:forest": "2023-08-18 18:38:29 +0200",
+      "minecraft:deep_cold_ocean": "2023-08-18 18:44:29 +0200",
+      "minecraft:frozen_ocean": "2023-08-18 18:49:28 +0200",
+      "minecraft:snowy_beach": "2023-08-18 18:49:29 +0200",
+      "minecraft:plains": "2023-08-18 18:40:39 +0200"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2023-08-18 18:38:57 +0200"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/forbidden_arcanus/edelwood_ladder": {
+    "criteria": {
+      "has_stick": "2023-08-18 18:38:58 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_stick": "2023-08-18 18:38:58 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2023-08-18 18:44:46 +0200"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/apple_decomposing": {
+    "criteria": {
+      "has_apple": "2023-08-18 18:39:23 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2023-08-18 18:52:12 +0200"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_dia_pearl": {
+    "criteria": {
+      "inv_changed-ender_pearl": "2023-08-18 18:58:30 +0200",
+      "inv_changed-diamond": "2023-08-18 18:58:30 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2023-08-18 18:44:46 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cutting_board": {
+    "criteria": {
+      "has_stick": "2023-08-18 18:38:58 +0200"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_dragon": {
+    "criteria": {
+      "requirement": "2023-08-18 18:59:44 +0200"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:main/cursed_ring": {
+    "criteria": {
+      "fruit": "2023-08-18 18:37:39 +0200"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/avarice_scroll": {
+    "criteria": {
+      "is_cursed_one": "2023-08-18 18:37:39 +0200"
+    },
+    "done": false
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2023-08-18 18:39:37 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2023-08-18 19:06:13 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2023-08-18 18:44:46 +0200"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/make_inscription_table": {
+    "criteria": {
+      "inscription_table": "2023-08-18 19:00:24 +0200"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/relics/enigmatic_eye": {
+    "criteria": {
+      "impossible": "2023-08-18 18:42:28 +0200"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/tools/etherium_sword": {
+    "criteria": {
+      "has_the_recipe": "2023-08-18 18:42:18 +0200"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/berserk_charm": {
+    "criteria": {
+      "is_cursed_one": "2023-08-18 18:37:39 +0200"
+    },
+    "done": false
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/powerpack": {
+    "criteria": {
+      "has_leather": "2023-08-18 19:06:13 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2023-08-18 18:37:32 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2023-08-18 19:06:13 +0200"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/lexicon": {
+    "criteria": {
+      "has_item": "2023-08-18 18:38:57 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2023-08-18 18:51:53 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2023-08-18 18:44:46 +0200"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/cursed_scroll": {
+    "criteria": {
+      "is_cursed_one": "2023-08-18 18:37:39 +0200"
+    },
+    "done": false
+  },
+  "enigmaticlegacy:recipes/generic/ender_slayer": {
+    "criteria": {
+      "has_recipe_result": "2023-08-18 18:42:23 +0200",
+      "is_cursed_one": "2023-08-18 18:37:39 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:spider": "2023-08-18 18:51:52 +0200",
+      "minecraft:creeper": "2023-08-18 18:51:18 +0200",
+      "minecraft:stray": "2023-08-18 18:53:34 +0200",
+      "minecraft:zombie": "2023-08-18 18:51:50 +0200"
+    },
+    "done": false
+  },
+  "mekanism:root": {
+    "criteria": {
+      "automatic": "2023-08-18 18:37:20 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2023-08-18 18:39:01 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/dog_food": {
+    "criteria": {
+      "has_any_ingredient": "2023-08-18 18:52:12 +0200"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/jacaranda_boat": {
+    "criteria": {
+      "in_water": "2023-08-18 18:44:46 +0200"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/etherium_sword": {
+    "criteria": {
+      "has_recipe_result": "2023-08-18 18:42:18 +0200"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_root": {
+    "criteria": {
+      "requirement": "2023-08-18 18:59:56 +0200"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_dead_king": {
+    "criteria": {
+      "requirement": "2023-08-18 19:08:02 +0200"
+    },
+    "done": true
+  },
+  "brewinandchewin:recipes/brewinandchewin/fermenting/jerky": {
+    "criteria": {
+      "has_any_ingredient": "2023-08-18 18:52:12 +0200"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_chest": {
+    "criteria": {
+      "inv_changed-chest": "2023-08-18 18:58:30 +0200"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2023-08-18 18:37:32 +0200"
+    },
+    "done": true
+  },
+  "betterdeserttemples:root": {
+    "criteria": {
+      "always": "2023-08-18 18:37:32 +0200"
+    },
+    "done": true
+  },
+  "cgm:recipes/cgm/stun_grenade": {
+    "criteria": {
+      "has_gunpowder": "2023-08-18 18:51:19 +0200"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/curse_transposer": {
+    "criteria": {
+      "is_cursed_one": "2023-08-18 18:37:39 +0200"
+    },
+    "done": false
+  },
+  "biomancy:recipes/biomancy/decomposing/forge_leather_decomposing": {
+    "criteria": {
+      "has_leather": "2023-08-18 19:06:13 +0200"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/enchanter_pearl": {
+    "criteria": {
+      "is_cursed_one": "2023-08-18 18:37:39 +0200"
+    },
+    "done": false
+  },
+  "enigmaticlegacy:main/the_twist": {
+    "criteria": {
+      "twist": "2023-08-18 18:42:00 +0200"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:main/root": {
+    "criteria": {
+      "flower": "2023-08-18 18:37:32 +0200"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/forge_string_decomposing": {
+    "criteria": {
+      "has_string": "2023-08-18 18:51:53 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2023-08-18 18:52:12 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_stick": "2023-08-18 18:38:58 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/apple_cider": {
+    "criteria": {
+      "has_apple": "2023-08-18 18:39:23 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2023-08-18 18:44:46 +0200"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/relics/eldritch_amulet": {
+    "criteria": {
+      "is_the_cursed_one": "2023-08-18 18:37:39 +0200"
+    },
+    "done": false
+  },
+  "meetyourfight:main/root": {
+    "criteria": {
+      "killed_something": "2023-08-18 18:39:37 +0200"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/dirt_decomposing": {
+    "criteria": {
+      "has_dirt": "2023-08-18 18:43:02 +0200"
+    },
+    "done": true
+  },
+  "immersive_weathering:immersive_weathering/dirts": {
+    "criteria": {
+      "dirt": "2023-08-18 18:43:02 +0200"
+    },
+    "done": false
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/conveyor_basic": {
+    "criteria": {
+      "has_leather": "2023-08-18 19:06:13 +0200"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/the_twist": {
+    "criteria": {
+      "has_parent_recipe": "2023-08-18 18:37:32 +0200",
+      "has_recipe_result": "2023-08-18 18:42:00 +0200",
+      "is_cursed_one": "2023-08-18 18:37:39 +0200"
+    },
+    "done": true
+  },
+  "DataVersion": 3120
+}

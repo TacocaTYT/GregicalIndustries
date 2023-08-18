@@ -1,0 +1,42 @@
+
+#Movement configurations
+[movement]
+	#turns off/on the quake-style movement for the client (essentially the saved value of the ingame toggle keybind)
+	enabled = true
+	#if enabled, the soft and hard caps will not be applied at all
+	uncappedBunnyhopEnabled = true
+	#if enabled, holding jump while swimming at the surface of water allows you to glide
+	sharkingEnabled = true
+	#if enabled, holding sneak while jumping will convert your horizontal speed into vertical speed
+	trimpEnabled = true
+	#a higher value means you can turn more sharply in the air without losing speed
+	#Range: 0.0 ~ 1.7976931348623157E308
+	airAccelerate = 14.0
+	#a higher value means faster air acceleration
+	#Range: 0.0 ~ 1.7976931348623157E308
+	maxAirAccelerationPerTick = 0.045
+	#a higher value means you accelerate faster on the ground
+	#Range: 0.0 ~ 1.7976931348623157E308
+	groundAccelerate = 10.0
+	#see uncappedBunnyhopEnabled; if you ever jump while above the hard cap speed (moveSpeed*hardCapThreshold), your speed is set to the hard cap speed
+	#Range: 0.0 ~ 1.7976931348623157E308
+	hardCapThreshold = 2.0
+	#see uncappedBunnyhopEnabled and softCapDegen; soft cap speed = (moveSpeed*softCapThreshold)
+	#Range: 0.0 ~ 1.7976931348623157E308
+	softCapThreshold = 1.4
+	#the modifier used to calculate speed lost when jumping above the soft cap
+	#Range: 0.0 ~ 1.7976931348623157E308
+	softCapDegen = 0.65
+	#amount of friction while sharking (between 0 and 1)
+	#Range: 0.0 ~ 1.0
+	sharkingWaterFriction = 0.1
+	#amount of downward momentum you lose while entering water, a higher value means that you are able to shark after hitting the water from higher up
+	#Range: 0.0 ~ 1.7976931348623157E308
+	sharkingSurfaceTension = 0.2
+	#a lower value means less horizontal speed converted to vertical speed and vice versa
+	#Range: 0.0 ~ 1.7976931348623157E308
+	trimpMultiplier = 1.4
+	#increases the distance needed to fall in order to take fall damage; this is a server-side setting
+	#Range: 0.0 ~ 1.7976931348623157E308
+	fallDistanceThresholdIncrease = 0.0
+
