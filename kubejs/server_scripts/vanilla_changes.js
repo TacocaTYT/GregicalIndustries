@@ -20,6 +20,7 @@ ServerEvents.recipes(e => {
 		L: '#minecraft:logs',
 		C: '#forge:ingots/copper'
 		});
+		e.remove({output: '#forge:barrels/wooden'});	
 		e.shaped(Item.of('minecraft:barrel'), [
 			'PLP',
 			'LCL',
@@ -42,7 +43,7 @@ ServerEvents.recipes(e => {
 		L: 'minecraft:copper_ingot',
 		F: 'minecraft:campfire'
 		});
-//nerf plank recipe (hehe expert pack)
+//nerf plank recipe (hehe expert pack)	
 e.forEachRecipe({ type: 'minecraft:crafting_shapeless', input: '#minecraft:logs', output: '#minecraft:planks' }, r => {
     let ingredients = r.originalRecipeIngredients
     let output = r.originalRecipeResult

@@ -1,0 +1,7 @@
+{
+	chapter_groups: [
+		{ id: "074662FD0C587ED7", title: "Voltages" }
+		{ id: "013CFB5EE458DA38", title: "Progression" }
+		{ id: "39432D8CEDF46D17", title: "Misc" }
+	]
+}
