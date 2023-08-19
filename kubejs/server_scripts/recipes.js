@@ -6,6 +6,7 @@ ServerEvents.recipes(e => {
     e.remove({output: 'gtceu:flint_mortar'});
     e.remove({output: 'create:copper_diving_helmet'});
     e.remove({output: 'create:copper_diving_boots'});
+    e.remove({output: 'minecraft:iron_ingot'});
 
     e.shaped(Item.of('create:gearbox', 1), [
         'BGB',
@@ -408,4 +409,25 @@ e.shaped(Item.of('gtceu:flint_mortar', 1), [
   S: 'minecraft:string',
   T: 'minecraft:flint'
 });
+e.recipes.botania.mana_infusion("minecraft:iron_ingot", "kubejs:infested_iron_ingot", 5000, "kubejs:infested_iron_ingot")
+e.blasting('1x minecraft:iron_ingot', 'minecraft:raw_iron')
+e.blasting('1x minecraft:iron_block', 'minecraft:raw_iron_block')
+e.remove({output: 'minecraft:blast_furnace'});
+e.shaped(Item.of('minecraft:blast_furnace', 1), [
+  'III',
+  'IFI',
+  'SIS'
+], {
+  B: 'minecraft:iron_block',
+  I: 'minecraft:iron_ingot',
+  F: 'minecraft:furnace',
+  S: 'minecraft:smooth_stone'
+});
+// WHERE DID IRON BLOCK GO 
+// ...I DIDN'T REMOVE IT
+e.shapeless(
+  Item.of('minecraft:iron_block', 1),
+  [ 
+    '9x #forge:ingots/iron'
+  ])
 })
