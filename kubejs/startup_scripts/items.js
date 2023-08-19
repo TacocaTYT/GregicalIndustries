@@ -3,4 +3,6 @@ StartupEvents.registry('item', e => {
     e.create('andesite_bearing').displayName('Andesite Bearing');
     e.create('stone_ball_bearing').displayName('Stone Ball Bearing');
     e.create('refined_gravel').displayName('Refined Gravel');
-  })
+    e.create('copper_armor_plating').displayName('Copper Armor Plating');
+    e.create('iron_armor_plating').displayName('Iron Armor Plating');
+  })  
