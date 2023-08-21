@@ -1,3 +1,14 @@
 saves/ 
 *.log
 options.txt
+crash-reports/
+logs/
+screenshots/
+shaderpacks/
+*.curseclient
+enigmatic_persistance.dat
+options.txt
+rhino.local.properties
+usercache.json
+usernamecache.json
+.vscode
